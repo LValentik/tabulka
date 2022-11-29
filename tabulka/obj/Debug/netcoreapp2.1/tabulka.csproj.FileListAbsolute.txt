@@ -1,0 +1,11 @@
+C:\Users\Valentik.Lu.2022\source\repos\tabulka\tabulka\obj\Debug\netcoreapp2.1\tabulka.csprojAssemblyReference.cache
+C:\Users\Valentik.Lu.2022\source\repos\tabulka\tabulka\obj\Debug\netcoreapp2.1\tabulka.csproj.CoreCompileInputs.cache
+C:\Users\Valentik.Lu.2022\source\repos\tabulka\tabulka\obj\Debug\netcoreapp2.1\tabulka.AssemblyInfoInputs.cache
+C:\Users\Valentik.Lu.2022\source\repos\tabulka\tabulka\obj\Debug\netcoreapp2.1\tabulka.AssemblyInfo.cs
+C:\Users\Valentik.Lu.2022\source\repos\tabulka\tabulka\bin\Debug\netcoreapp2.1\tabulka.deps.json
+C:\Users\Valentik.Lu.2022\source\repos\tabulka\tabulka\bin\Debug\netcoreapp2.1\tabulka.runtimeconfig.json
+C:\Users\Valentik.Lu.2022\source\repos\tabulka\tabulka\bin\Debug\netcoreapp2.1\tabulka.runtimeconfig.dev.json
+C:\Users\Valentik.Lu.2022\source\repos\tabulka\tabulka\bin\Debug\netcoreapp2.1\tabulka.dll
+C:\Users\Valentik.Lu.2022\source\repos\tabulka\tabulka\bin\Debug\netcoreapp2.1\tabulka.pdb
+C:\Users\Valentik.Lu.2022\source\repos\tabulka\tabulka\obj\Debug\netcoreapp2.1\tabulka.dll
+C:\Users\Valentik.Lu.2022\source\repos\tabulka\tabulka\obj\Debug\netcoreapp2.1\tabulka.pdb
